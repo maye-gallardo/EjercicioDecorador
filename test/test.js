@@ -81,6 +81,4 @@ describe('Decorator', function () {
     espada = new Hierro(espada);
     expect(espada.caculadorPuntaje()).eq(25);
   });
-
-  
 });
